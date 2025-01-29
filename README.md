@@ -1,2 +1,2 @@
-# UART
-UART Implementation on Basys3 FPGA
+# UART- UART Implementation on Basys3 FPGA
+This is my CS223 course project that I implemented in SystemVerilog. The project involves simultaneous data transfer between two Basys3 FPGA boards using UART in full duplex mode. The transmitted and received data are displayed using the board's peripherals. The project utilized sequential logic, state machines, and control logic for efficient communication.
